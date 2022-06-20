@@ -1,0 +1,64 @@
+Source Code Management(SCM) is synonymous with version control, it is software tool that programmers use to manage the source code. It tracks the modifications to a source code repository and helps deal with merge conflicts
+
+Adv of Source Code management:
+
+- Track changes over time by creating a historical record.
+- To compare the older versions and even undo some changes to the 
+  code base. 
+
+Importance of Source Code Management
+
+- Track changes 
+- Synchronization 
+- Backup and Restore
+- Undoing
+- Branching and Merging
+- Identifying conflicts and preventing overwrites
+
+Version control is the management of changes of documents, computer programs, large websites and any other collections of information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CVCS – CVCS  uses  central server to store all files and enables team collaboration .
+Drawbacks 
+1. It is not available locally, you always need to be connected to a network to perform any action.
+2. Since everything is centralized , in any case of the central server getting crashed or corrupted will result in losing the entire data of project 
+
+DVCS – They don’t rely on a central system every contributed 
+
+
+
+
+
+
+
+
+git --version
+git init— make .git file 
+git status-
+git restore <filename>
+git add
+git log – to get commit ID
+git diff
+git commit -m “update scm.txt”
+
+
+
+
+
+
+
+
+
